@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/33ed9241-6560-4eef-8b85-9766cc0ff5e4" 
+       alt="giphy" 
+       width="400" 
+       height="700" />
+</p>
+
 🍽️ Zomato Data Analysis
 ----
 📖 Project Description
